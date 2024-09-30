@@ -1,0 +1,2 @@
+# Somagit
+Configuring ssh-keygen
